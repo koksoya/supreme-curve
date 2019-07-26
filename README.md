@@ -1,3 +1,3 @@
 # supreme-curve
-Predictor training with ml for
+Classifier predictor training with machine learning for
 Optimum localized retail store predictor
